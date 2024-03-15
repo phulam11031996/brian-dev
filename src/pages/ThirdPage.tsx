@@ -9,7 +9,7 @@ const ThirdPage = () => {
         justifyContent: "center",
         alignItems: "center",
         width: "100svw",
-        height: "100svg",
+        height: "100svh",
       }}
     >
       <h1>Success!</h1>
