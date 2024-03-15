@@ -24,7 +24,7 @@ const SecondPage = () => {
 
       if (response.ok) {
         // API call successful, navigate to another page
-        navigate("/second-page");
+        navigate("/third-page");
       } else {
         // API call failed, handle the error
         console.error(response);

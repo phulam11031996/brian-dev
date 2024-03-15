@@ -57,7 +57,7 @@ const FirstPage = () => {
         justifyContent: "center",
         alignItems: "center",
         width: "100svw",
-        height: "100svg",
+        height: "100svh",
       }}
     >
       <form onSubmit={handleSubmit}>
